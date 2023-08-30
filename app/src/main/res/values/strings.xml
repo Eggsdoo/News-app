@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidDevelopmentNewsApp</string>
+    <string name="api_key">1807e78be5254f21b65854c5911cbc54</string>
+    <string name="button_read_news_full">Read full news article..</string>
+    <string name="btn_1">BUSINESS</string>
+    <string name="btn_2">ENTERTAINMENT</string>
+    <string name="btn_3">GENERAL</string>
+    <string name="btn_4">HEALTH</string>
+    <string name="btn_5">SCIENCE</string>
+    <string name="btn_6">SPORTS</string>
+    <string name="btn_7">TECHNOLOGY</string>
+
+</resources>
